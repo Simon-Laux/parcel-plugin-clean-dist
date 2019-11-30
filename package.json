@@ -1,8 +1,7 @@
 {
-  "name": "parcel-plugin-clean-dist",
+  "name": "parcel-plugin-clean-dist-fsextra",
   "version": "0.0.6",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/qinshixixing/parcel-plugin-clean-dist.git"
+  "dependencies": {
+    "fs-extra": "^8.1.0"
   }
 }

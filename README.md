@@ -3,5 +3,5 @@ This package is a parcel plugin which delete the last bundled files before compi
 
 ## Installation
 ```bash
-npm i -D parcel-plugin-clean-dist
+npm i -D https://github.com/Simon-Laux/parcel-plugin-clean-dist
 ```
